@@ -5,7 +5,7 @@ import Components from "./Components/Components";
 function App() {
   return (
     <div className="App">
-      <Card />
+      {/* <Card /> */}
       <Components />
     </div>
   );
